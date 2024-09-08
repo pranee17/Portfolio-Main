@@ -211,7 +211,7 @@ function playClosingAnimation(reverseAnimation) {
   tlBtn.innerHTML = "About";
   trBtn.innerHTML = "Skills";
   blBtn.innerHTML = "Projects";
-  brBtn.innerHTML = "Certificates";
+  brBtn.innerHTML = "Contact";
 
   switch (activeCorner) {
     case "top-left":
