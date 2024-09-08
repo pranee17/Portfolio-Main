@@ -254,7 +254,7 @@ tlBtn.onclick = function () {
   } else {
     trBtn.innerHTML = "Skills";
     blBtn.innerHTML = "Projects";
-    brBtn.innerHTML = "Certificates";
+    brBtn.innerHTML = "Contact";
 
     // Setting activeCorner
     activeCorner = "top-left";
@@ -289,7 +289,7 @@ trBtn.onclick = function () {
   } else {
     tlBtn.innerHTML = "About";
     blBtn.innerHTML = "Projects";
-    brBtn.innerHTML = "Certificates";
+    brBtn.innerHTML = "Contact";
 
     // Setting activeCorner
     activeCorner = "top-right";
@@ -324,7 +324,7 @@ blBtn.onclick = function () {
   } else {
     tlBtn.innerHTML = "About";
     trBtn.innerHTML = "Skills";
-    brBtn.innerHTML = "Certificates";
+    brBtn.innerHTML = "Contact";
 
     // Setting activeCorner
     activeCorner = "bottom-left";
