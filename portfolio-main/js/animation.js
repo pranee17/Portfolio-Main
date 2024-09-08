@@ -363,7 +363,7 @@ brBtn.onclick = function () {
 
     // Setting activeCorner
     activeCorner = "bottom-right";
-    brBtn.innerHTML = "Certificates<br/>&darr;";
+    brBtn.innerHTML = "Contact<br/>&darr;";
 
     handleWindowResize();
     playAnimation("animate-bottom-right", "reverse-animate-bottom-right");
